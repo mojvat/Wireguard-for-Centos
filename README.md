@@ -27,8 +27,7 @@ yum install -y wget && wget https://github.com/mojvat/Wireguard-for-Centos/raw/m
 4. After the system restart is complete, re-use the Putty connection and enter the following command to run the script again:
 
 ./wireguard_install.sh
-1
-./wireguard_install.sh
+
  
 
 5. When the following message appears, enter the number 2 and press Enter to start installing WireGuard:
