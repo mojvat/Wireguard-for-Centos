@@ -43,3 +43,19 @@ yum install -y wget && wget https://github.com/mojvat/Wireguard-for-Centos/raw/m
  
 
 7. Proceed to this step, indicating that the WireGuard server has been successfully built, and then use the WireGuard client connection. Once the connection is successful, you can start science online
+
+
+How to verify that WireGuard is installed successfully
+Putty enters wg and returns the following information, including the various connection parameters of WireGuard. Includes public key, private key, port, link, client IP and port, runtime, traffic transfer, and more.
+
+
+
+ 
+
+Or you can run the following command:
+
+lsmod | grep wireguard
+
+Will get the results of the following picture:
+
+
