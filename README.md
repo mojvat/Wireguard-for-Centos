@@ -14,7 +14,7 @@ yum install -y wget && wget https://github.com/mojvat/Wireguard-for-Centos/raw/m
 
 2. When the following interface appears, enter the number 1 and press Enter to start upgrading the kernel:
 
-
+![alt tag](https://github.com/mojvat/Wireguard-for-Centos/blob/master/p1.jpg?raw=true)
 
  
 
