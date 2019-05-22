@@ -48,7 +48,7 @@ yum install -y wget && wget https://github.com/mojvat/Wireguard-for-Centos/raw/m
 How to verify that WireGuard is installed successfully
 Putty enters wg and returns the following information, including the various connection parameters of WireGuard. Includes public key, private key, port, link, client IP and port, runtime, traffic transfer, and more.
 
-
+![alt tag](https://github.com/mojvat/Wireguard-for-Centos/blob/master/p3.jpg?raw=true)
 
  
 
@@ -57,5 +57,6 @@ Or you can run the following command:
 lsmod | grep wireguard
 
 Will get the results of the following picture:
+![alt tag](https://github.com/mojvat/Wireguard-for-Centos/blob/master/p4.jpg?raw=true)
 
 
