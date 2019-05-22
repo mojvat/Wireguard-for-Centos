@@ -1,8 +1,7 @@
 # Wireguard
-one key insstalltion for centos 7
 
-WireGuard one-click installation script CentOS version
-prompt:
+WireGuard one-click installation script CentOS version:
+
 
 At present, most of the systems have older kernel versions and do not support WireGuard. You need to upgrade the kernel as follows.
 Installation process:
